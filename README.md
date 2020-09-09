@@ -2,7 +2,7 @@
 
 This webscraper is my project for the [Scrapy Course at Platzi](https://platzi.com/clases/scrapy/) 
 
-As well, this project is part of the Platzi Master program -- an education acceleration program to form the future tech leaders in LATAM. 
+As well, this is one of the challenges for Platzi Master -- an education acceleration program to form the future tech leaders in LATAM.
 
 <h2>Brief description:</h2>
 
